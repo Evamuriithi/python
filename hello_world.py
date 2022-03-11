@@ -1,1 +1,2 @@
- print('Hello, World!')
+print('Hello, world!')
+print('it is a beautiful day!')
